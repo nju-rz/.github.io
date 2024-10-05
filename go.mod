@@ -1,4 +1,4 @@
-module github.com/wowchemy/starter-hugo-research-group
+module github.com/nju-rz/nju-rz.github.io
 
 go 1.15
 
